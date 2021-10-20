@@ -7,11 +7,11 @@ with open('requirements.txt') as f:
 from ksa_vat import __version__ as version
 
 setup(
-	name='ksa_vat',
+	name='ksa_vat_zakat',
 	version=version,
-	description='KSA VAT Management and Reporting',
-	author='Havenir Solutions',
-	author_email='support@havenir.com',
+	description='KSA VAT',
+	author='Wajihah',
+	author_email='ribrahim@wajihah.sa',
 	packages=find_packages(),
 	zip_safe=False,
 	include_package_data=True,
