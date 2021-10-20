@@ -1,12 +1,12 @@
 from . import __version__ as app_version
 
-app_name = "ksa_vat"
+app_name = "ksa_vat_zakat"
 app_title = "KSA VAT"
-app_publisher = "Havenir Solutions"
-app_description = "KSA VAT Management and Reporting"
+app_publisher = "Wajihah"
+app_description = "KSA VAT"
 app_icon = "octicon octicon-file-directory"
 app_color = "grey"
-app_email = "support@havenir.com"
+app_email = "ribrahim@wajihah.sa"
 app_license = "MIT"
 
 # Includes in <head>
