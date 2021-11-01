@@ -1,6 +1,6 @@
 from . import __version__ as app_version
 
-app_name = "ksa_vat_zakat"
+app_name = "ksa_vat"
 app_title = "KSA VAT"
 app_publisher = "Wajihah"
 app_description = "KSA VAT"
