@@ -7,7 +7,7 @@ with open('requirements.txt') as f:
 from ksa_vat import __version__ as version
 
 setup(
-	name='ksa_vat_zakat',
+	name='ksa_vat',
 	version=version,
 	description='KSA VAT',
 	author='Wajihah',
